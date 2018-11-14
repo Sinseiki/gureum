@@ -52,6 +52,7 @@ FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Moa2014;
 FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Moa2015;
 FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Moa2016;
 FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Moa2017;
+FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Moa2018;
 
 FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3Sun2014;
 FOUNDATION_EXTERN NSString *kGureumInputSourceIdentifierHan3GimKuk38AClassic;
